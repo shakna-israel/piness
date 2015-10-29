@@ -1,5 +1,7 @@
 # PiNess
 
+![Charts](http://i.imgur.com/wsP021S.png)
+
 A tool to allow analysis of Pi to the billionth digit.
 
 Many thanks to MIT for releasing their simple text file!
